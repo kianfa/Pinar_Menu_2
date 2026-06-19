@@ -23,7 +23,7 @@ export const brand = {
   storefront: '/images/storefront.jpg',
   instagram: 'https://instagram.com/pinar.fastfood',
   phone: '۰۹۱۲ ۱۲۳ ۴۵۶۷',
-  phoneHref: 'tel:+989121234567',
+  phoneHref: 'tel:02177873794',
   address: 'تهران، تهرانپارس، ۱۹۶ غربی، نبش ایزد پناه، پلاک ۱۸۸، فست فود پینار',
   hours: 'هر روز ۱۱:۰۰ تا ۲۴:۰۰',
 }
